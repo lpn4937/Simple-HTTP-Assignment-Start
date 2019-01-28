@@ -15,7 +15,7 @@
   "author": "Lucas Nichols",
   "license": "ISC",
   "devDependencies": {
-    "eslint": "^6.4.1",
+    "eslint": "^5.12.1",
     "eslint-config-airbnb": "^17.1.0",
     "eslint-plugin-import": "^2.15.0"
   }
